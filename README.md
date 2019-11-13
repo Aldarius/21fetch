@@ -1,4 +1,4 @@
-Idea and script - https://github.com/salaaad2/101fetch
+Idea and script - [salaaad2](https://github.com/salaaad2/101fetch)
 
 # 21fetch
 
