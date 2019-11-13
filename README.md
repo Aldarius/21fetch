@@ -1,6 +1,6 @@
-# 21fetch
-
 Idea and script - https://github.com/salaaad2/101fetch
+
+# 21fetch
 
 21 fetch is a small script inspired by [neofetch](https://github.com/dylanaraps/neofetch) designed for [sh 21](https://21-school.ru/) students.
 
