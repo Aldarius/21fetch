@@ -6,14 +6,15 @@ c0="$(tput setaf 4)"
 nc="$(tput sgr0)"
 
 cat <<EOF
-${c0}               SH -  /
+${c0}                SH - /
 ${c0}                    /
-${c0}          ::::::   /    .::  user   : ${nc}${USER}@${uname}
-${c0}        :+:  :+:     +:+:+
-${c0}            +:+       +:+    time   : ${nc}${time}
-${c0}          +#+        #+#     uptime : ${nc}${uptime}
-${c0}         +#+        #+#
-${c0}        #+#        #+#
-${c0}       ######## / ###
+${c0}          ::::::   /      .::  user   : ${nc}${USER}@${uname}
+${c0}        :+:  :+:       +:+:+
+${c0}            +:+         +:+    time   : ${nc}${time}
+${c0}          +#+          #+#     uptime : ${nc}${uptime}
+${c0}        +#+           #+#
+${c0}      #+#            #+#
+${c0}     #########  /   ###
 ${c0}               /
+${c0}              /
 EOF
