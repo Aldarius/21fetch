@@ -7,7 +7,7 @@ nc="$(tput sgr0)"
 
 cat <<EOF
 ${c0}
-${c0}          ::::::       .::   user   : ${nc}${USER}@${uname}
+${c0}          ::::::       .::   user   : ${nc}${USER}
 ${c0}        :+:  :+:    +:+:+    iMac   : ${nc}${uname}
 ${c0}            +:+      +:+     time   : ${nc}${time}
 ${c0}          +#+       #+#      uptime : ${nc}${uptime}
