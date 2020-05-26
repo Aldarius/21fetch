@@ -11,13 +11,13 @@ Idea and script - [salaaad2](https://github.com/salaaad2/101fetch)
 * Your uptime
 
 
-![21fetch in action](https://github.com/Aldarius/21fetch/blob/master/21fetch.png)
+![21fetch in action](https://github.com/Lminta/21fetch/blob/master/21fetch.png)
 
 ## Installation
 
 Open a terminal and run the **following command**:
 ```shell
-git clone https://github.com/Aldarius/21fetch.git
+git clone https://github.com/Lminta/21fetch.git
 cd 21fetch
 ./21fetch
 ```
